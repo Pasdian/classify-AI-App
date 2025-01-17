@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-mute-moon-a5565bze.us-east-2.aws.neon.tech/classify-app?user=classify-app_owner&password=vxm72uPbdzfl
